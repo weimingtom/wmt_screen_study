@@ -7,3 +7,4 @@ https://blog.csdn.net/xiejiashu/article/details/61211382
 * mjpg-streamer  
 https://github.com/codewithpassion/mjpg-streamer  
 * https://github.com/kulv2012/rtmpdump-librtmp  
+* https://github.com/jiayayao/librtmp  
