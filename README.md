@@ -17,3 +17,5 @@ https://www.cnblogs.com/boonya/p/8024319.html
 https://blog.csdn.net/zxccxzzxz/article/details/55230272  
 https://github.com/eterrao/ScreenRecorder  
 * https://github.com/Genymobile/scrcpy  
+* spydroid-ipcamera 实现Android视频实时上传到服务器，服务器可以实时浏览  
+https://blog.csdn.net/hunhun1122/article/details/72537605  
