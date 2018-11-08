@@ -4,6 +4,12 @@ My Android/Windows screen cast study
 ## RTMP publish  
 * https://gitee.com/weimingtom/rtmpdump-librtmp  
 
+## RTSP local file  
+* (baidupan) testrtsp_v3_rtp_success.rar  
+
+## RTSP pusher (not done)    
+* (baidupan) h264dec-master_v4_rtp.rar  
+
 ## Ref  
 * EasyIPCamera实现Windows PC桌面、安卓Android桌面同屏直播，助力无纸化会议系统  
 https://blog.csdn.net/xiejiashu/article/details/61211382  
