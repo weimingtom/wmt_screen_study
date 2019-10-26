@@ -37,3 +37,6 @@ https://blog.csdn.net/firehood_/article/details/16844397
 * https://github.com/ZigFisher/Glutinium/tree/master/hisi-sample/src  
 * https://github.com/ian-qian-ting/rtsp2.0  
 * https://github.com/edsiper/h264dec  
+
+## etc  
+* https://github.com/barry-ran/QtScrcpy  
