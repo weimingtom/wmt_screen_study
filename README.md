@@ -50,3 +50,8 @@ https://blog.csdn.net/firehood_/article/details/16844397
 
 ## private repo  
 https://gitee.com/weimingtom/android_remote_control  
+https://gitee.com/weimingtom/andsprite  
+https://gitee.com/weimingtom/tesseract-ocr
+https://gitee.com/weimingtom/node-v6.9.2-android
+https://gitee.com/weimingtom/node-v4.2.1-android
+https://gitee.com/weimingtom/node-v8-inspector
