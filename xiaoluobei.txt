@@ -1,0 +1,17 @@
+2016-11-28 16:11 来自 微博 weibo.com  
+最近研究小萝贝截图时发现长久以来用NDK编译不了调用系统so非公开API的代码，其实是可以用dummy so来间接编译的
+（否则需要下载整个android代码，而且在Windows上无法编译）
+例如这个项目buptpatriot/2048-AI
+https://github.com/buptpatriot/2048-AI  
+它是直接用gcc编译，但事实上可以通过NDK编译，玄机就在于它不仅做了一个fake的so，而且还加了几个编译开关，
+这样可以让原来的libgui.so被链接到
+-pie -fPIE -Xlinker -rpath=/system/lib
+所以最难办的是怎么做一个假冒的so，而不是如何编译。。。
+
+
+2016-11-11 22:49 来自 微博 weibo.com
+根据知乎的介绍，我安装了小萝贝，发现它确实可以在非root的情况下高速地截图，在PC上用进程工具查看，
+发现它通过adb shell调用了/data/local/tmp下的程序，
+把文件拷出来反编译后在gh找到一个类似方式截图的（而且还是个游戏外挂来的）。当然小萝贝的截屏方法是找不到的，
+但是类似的思路可以大做文章，总比用screencap的单一化方法要好
+
