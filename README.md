@@ -40,3 +40,6 @@ https://blog.csdn.net/firehood_/article/details/16844397
 
 ## etc  
 * https://github.com/barry-ran/QtScrcpy  
+
+## scrcpy  
+* https://github.com/Genymobile/scrcpy  
