@@ -55,3 +55,7 @@ https://gitee.com/weimingtom/tesseract-ocr
 https://gitee.com/weimingtom/node-v6.9.2-android  
 https://gitee.com/weimingtom/node-v4.2.1-android  
 https://gitee.com/weimingtom/node-v8-inspector  
+
+## ScreenRecord  
+https://www.cnblogs.com/vikings-blog/p/11434992.html  
+https://github.com/andy-zhangtao/ffmpeg-examples/tree/master/ScreenRecord  
