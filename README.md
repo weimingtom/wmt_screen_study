@@ -67,3 +67,5 @@ https://github.com/weimingtom/prophecy/blob/master/src/com/ugame/prophecy/protoc
 ## A lightweight RTSP/RTMP/HTTP/HLS/HTTP-FLV/WebSocket-FLV server and client framework based on C++11  
 https://github.com/xiongziliang/ZLMediaKit  
 
+## V3S_OV2640_RTMP  
+https://github.com/yuliang8/V3S_OV2640_RTMP  
