@@ -79,3 +79,7 @@ https://github.com/MayaPosch/NymphCast
 ## screencolorpicker      
 * com.bstudio.screencolorpicker_2.apk
 * 悬浮窗，悬浮球???  
+
+## stf  
+* https://github.com/openstf/stf  
+* https://github.com/openstf/minicap  
